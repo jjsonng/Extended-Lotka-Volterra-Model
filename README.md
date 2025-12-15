@@ -34,4 +34,5 @@ The notebook includes:
 
 ## Usage
 
-Open and run `Extended Lotka–Volterra Model.ipynb` in Jupyter Notebook.
+Open and run `extended_model.ipynb` in Jupyter Notebook.
+
